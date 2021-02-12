@@ -10,7 +10,8 @@ https://drive.google.com/file/d/1XSXF1IWGpQZTRZ1bv8qu1x_1KwPgtqUy/view?usp=shari
 
 1. p.csv, q.csv, r.csv, t.csv are the data set files.
 
-2. untitled.m => WQAM s^r
+2. MATLAB CODES ARE GIVEN IN CODE BRANCH
+   untitled.m => WQAM s^r
    untitled2.m => WQAM cos
    untitled3.m => WQAM tan
    untitled4.m => WQAM sin
